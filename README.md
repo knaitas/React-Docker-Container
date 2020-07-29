@@ -1,6 +1,6 @@
 # Simple and Clean React Container
 
-##Usage
+###Usage
 
 Build the container
 
